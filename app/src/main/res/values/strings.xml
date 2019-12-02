@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team_one">FC Barcelona</string>
+    <string name="score_team_a">0</string>
+    <string name="team_two">Real Madrid</string>
+    <string name="btn_text">Goal</string>
+    <string name="points">Points:</string>
+    <string name="league">League</string>
+    <string name="restart">Restart</string>
+</resources>
